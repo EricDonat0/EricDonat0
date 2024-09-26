@@ -26,7 +26,7 @@
   <img align="right" alt="Eric-pic" height="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1241842591993958541/1258286488018485278/Gif.gif?ex=66c228dc&is=66c0d75c&hm=2edc3f110854f5e0bdcaf07b882ec368645868a4f635e37053ee65f3cc329478&=&width=683&height=683">
 </div>
 
-##
+## 
 
 <div> 
   <a href="https://www.youtube.com/@EricDonato" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
