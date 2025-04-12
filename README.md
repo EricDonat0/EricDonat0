@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Ciência da Computação
-- 😄 Pronouns: ele/dele
+- 😄 Amo dados <3
 
 <div align="center">
   <a href="https://github.com/EricDonat0">
