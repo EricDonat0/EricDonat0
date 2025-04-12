@@ -23,7 +23,7 @@
   <img align="center" alt="Eric-SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Eric-MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
-  <img align="right" alt="Eric-pic" height="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1241842591993958541/1258286488018485278/Gif.gif?ex=66c228dc&is=66c0d75c&hm=2edc3f110854f5e0bdcaf07b882ec368645868a4f635e37053ee65f3cc329478&=&width=683&height=683">
+  <img align="right" alt="Eric-pic" height="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1241842591993958541/1258286488018485278/Gif.gif?ex=67fbeddc&is=67fa9c5c&hm=d0fe67adaa3c77f6bb6a338c80998895c3139c9a96724988f10c3c12859b312d&=">
 </div>
 
 ## 
