@@ -1,6 +1,5 @@
 ## Olá! Me chamo Eric Donato 👋
 
-Sou apaixonado por **dados e programação backend**, com foco em **engenharia de dados**. Atualmente estudo **Ciência da Computação** e venho desenvolvendo minhas habilidades em **Python, C#, C e SQL**, trabalhando com **análise de dados e pipelines de dados**.
 
 - 🔭 Atualmente trabalhando com **back-end**
 - 🌱 Estudando **Ciência da Computação**
