@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando com **back-end**
 - 🌱 Estudando **Ciência da Computação**
-- 😄 Apaixonado por dados <3
+- 😄 Apaixonado por Engenharia e Análise de Dados
 
 <div align="left">
       <a href="https://github.com/EricDonat0">
