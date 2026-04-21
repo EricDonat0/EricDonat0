@@ -2,7 +2,6 @@
 
 Sou estudante de **Ciência da Computação** e profissional com atuação em **Dados** e **Desenvolvimento Back-End**, com experiência em análise de métricas, automação de processos, dashboards e manipulação de dados com Python e SQL.
 
-
 ---
 
 ## Sobre mim
@@ -25,42 +24,35 @@ Atuação com:
 - automação de processos com Python
 - manipulação e análise de dados com SQL
 
-
 ---
 
 ## Tecnologias e Ferramentas
 
 ### Linguagens
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
-</div>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi">
-  <img align="center" alt="Tableau" height="30" width="40" src="https://cdn.simpleicons.org/tableau">
-  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftoffice/microsoftoffice-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img align="center" alt="Google Sheets" height="30" width="40" src="https://cdn.simpleicons.org/googlesheets">
-  <img align="center" alt="Salesforce" height="30" width="40" src="https://cdn.simpleicons.org/salesforce">
-</div>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Banco de Dados e Plataformas
-<div style="display: inline_block"><br>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Snowflake" height="30" width="40" src="https://cdn.simpleicons.org/snowflake">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### Conceitos
 - Programação Orientada a Objetos
@@ -87,7 +79,7 @@ Desenvolvimento em **C# com .NET**, com integração a banco de dados.
 
 Coautor do artigo:
 
-**Modularity in wearable devices: Impacts on development, usability, and maintenance – a systematic review**
+**Modularity in wearable devices: Impacts on development, usability, and maintenance - a systematic review**
 
 Essa experiência reforça meu interesse em pesquisa, análise crítica, revisão sistemática e desenvolvimento de soluções baseadas em evidências.
 
@@ -97,7 +89,7 @@ Essa experiência reforça meu interesse em pesquisa, análise crítica, revisã
 
 Busco continuar evoluindo em oportunidades e projetos nas áreas de:
 
-- **Dados** — Data Analyst, Data Engineer e Data Scientist
+- **Dados:** Data Analyst, Data Engineer e Data Scientist
 - **Desenvolvimento Back-End**
 - **Python** e **.NET**
 - **Automação**, **ETL** e **análise de dados**
