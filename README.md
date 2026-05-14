@@ -40,16 +40,6 @@ Sou estudante de **Ciência da Computação** e profissional com atuação em **
 
 ---
 
-## Pesquisa e Publicação
-
-Coautor do artigo:
-
-**Modularity in wearable devices: Impacts on development, usability, and maintenance - a systematic review**
-
-Essa experiência reforça meu interesse em pesquisa, análise crítica, revisão sistemática e desenvolvimento de soluções baseadas em evidências.
-
----
-
 ## Contato
 
 <div> 
