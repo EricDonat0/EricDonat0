@@ -14,18 +14,6 @@ Sou estudante de **Ciência da Computação** e profissional com atuação em **
 
 ---
 
-## Experiência
-
-### Analista Júnior
-Atuação com:
-- análise de dados para apoio à decisão
-- monitoramento de KPIs e métricas estratégicas
-- criação de dashboards e relatórios
-- automação de processos com Python
-- manipulação e análise de dados com SQL
-
----
-
 ## Tecnologias e Ferramentas
 
 ### Linguagens
