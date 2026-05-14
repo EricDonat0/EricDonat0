@@ -4,16 +4,6 @@ Sou estudante de **Ciência da Computação** e profissional com atuação em **
 
 ---
 
-## Sobre mim
-
-- 🎓 Bacharelando em **Ciência da Computação**
-- 💼 Experiência profissional em **Dados**, **BI** e **Automação**
-- 🐍 Atuação com **Python**, **SQL** e ferramentas analíticas
-- 📊 Interesse em **Data Analytics**, **Data Engineering** e **Back-End**
-- 🔍 Forte interesse em algoritmos, estruturas de dados e soluções orientadas a desempenho
-
----
-
 ## Tecnologias e Ferramentas
 
 ### Linguagens
@@ -50,19 +40,6 @@ Sou estudante de **Ciência da Computação** e profissional com atuação em **
 
 ---
 
-## Projetos em Destaque
-
-### Transdutor de Numerais Romanos
-Implementação de uma **Máquina de Mealy em Ruby**, com foco em conversão sem acumuladores.
-
-### Sokoban com Busca Heurística
-Projeto com implementação de **A\***, **Dijkstra** e **busca gananciosa**, utilizando **heurística de Manhattan**.
-
-### Magic Trick Automaton
-Desenvolvimento em **C# com .NET**, com integração a banco de dados.
-
----
-
 ## Pesquisa e Publicação
 
 Coautor do artigo:
@@ -70,17 +47,6 @@ Coautor do artigo:
 **Modularity in wearable devices: Impacts on development, usability, and maintenance - a systematic review**
 
 Essa experiência reforça meu interesse em pesquisa, análise crítica, revisão sistemática e desenvolvimento de soluções baseadas em evidências.
-
----
-
-## Objetivo
-
-Busco continuar evoluindo em oportunidades e projetos nas áreas de:
-
-- **Dados:** Data Analyst, Data Engineer e Data Scientist
-- **Desenvolvimento Back-End**
-- **Python** e **.NET**
-- **Automação**, **ETL** e **análise de dados**
 
 ---
 
